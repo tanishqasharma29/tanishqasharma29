@@ -1,82 +1,15 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:bd00ff,50:6a5acd,100:00d4ff&text=Tanishqa%Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-# Tanishqa Sharma
-
-### Full-Stack Developer | B.Tech + MBA @ ABV-IIITM Gwalior
-
-<br>
-
-### React | Node.js | MongoDB | C++| Python
-
-<br>
-
-<a href="mailto:img_2024048@iiitm.ac.in">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/your-profile">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/tanishqasharma29">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/tanishqasharma29">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</div>
-
----
-
 # 👨‍💻 About Me
 
 ```javascript
-const developer = {
-    location: "India",
-    education: "B.Tech + MBA @ ABV-IIITM Gwalior",
-    currentlyLearning: ["System Design", "DSA", "Web Development"],
-    interests: ["Full Stack", "Open Source", "AI/ML"],
-    askMeAbout: ["React", "Node.js", "MongoDB", "JavaScript"]
+const tanishqa = {
+    location: "Indore, Madhya Pradesh, India",
+    education: "B.Tech (IT) @ ABV-IIITM Gwalior",
+    currentlyLearning: ["System Design", "Full Stack Development", "Artificial Intelligence"],
+    interests: ["Open Source", "Web Development", "Hackathons", "Community Building"],
+    askMeAbout: ["React", "JavaScript", "MongoDB", "DSA", "Frontend Development"],
+    funFact: "I enjoy building tech solutions that create real-world impact."
 };
 ```
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-### Backend & Database
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
 
 ---
 
@@ -87,15 +20,17 @@ const developer = {
 
 <td width="50%">
 
-### 🍽 Food Delivery Platform
+### 🍱 Gharvedtan — Online Food Delivery Platform
 
-Full-stack community-driven food ordering platform.
+Trust-based hyperlocal food delivery ecosystem connecting home cooks, consumers, and delivery partners.
 
-* User Authentication
-* Role-based Dashboard
-* Order Tracking
-* Cart & Checkout
-* Firebase + MongoDB
+#### Highlights
+
+* 🏠 Empowered local home chefs and small food businesses
+* 💬 Real-time communication features
+* 🎮 Gamified rewards and engagement system
+* 🚚 Delivery tracking and order management
+* 👥 Community-driven food ecosystem
 
 **Tech Stack**
 
@@ -105,18 +40,21 @@ Full-stack community-driven food ordering platform.
 
 <td width="50%">
 
-### 📝 Blog Website
+### 📊 Deloitte Dashboard Analytics
 
-Modern blogging platform.
+Built during the Deloitte Australia Technology Virtual Experience Program.
 
-* Create/Edit/Delete Blogs
-* Comments System
-* Authentication
-* Responsive Design
+#### Highlights
+
+* 📈 Interactive Tableau dashboards
+* 📋 Data classification and analytics
+* 🔍 Actionable business insights
+* ⚡ Dashboard architecture planning
+* 📊 Data-driven decision support
 
 **Tech Stack**
 
-`React` `Express` `MongoDB`
+`Tableau` `Excel` `Analytics`
 
 </td>
 
@@ -126,30 +64,32 @@ Modern blogging platform.
 
 <td width="50%">
 
-### 🍲 Recipe Sharing Platform
+### 💻 Personal Portfolio Website
 
-Recipe sharing application.
+Modern developer portfolio showcasing projects, achievements, and technical skills.
 
-* Upload Recipes
-* Ratings & Reviews
-* Search & Filter
-* User Profiles
+#### Highlights
+
+* 🎨 Responsive UI/UX Design
+* ⚡ Fast and optimized performance
+* 📱 Mobile-friendly layout
+* 🔗 Professional networking integration
 
 **Tech Stack**
 
-`React` `Express` `MongoDB`
+`HTML` `CSS` `JavaScript`
 
 </td>
 
 <td width="50%">
 
-### 🔥 More Coming Soon
+### 🚀 More Coming Soon...
 
-Always building something new.
+Always learning, building, and experimenting with new technologies.
 
-> "Code is like humor. When you have to explain it, it's bad."
+> "First, solve the problem. Then, write the code."
 
-⭐ Star my repositories if you find them useful.
+⭐ Feel free to explore my repositories and connect with me!
 
 </td>
 
@@ -160,13 +100,37 @@ Always building something new.
 
 # 🏆 Achievements
 
-| 🎯 | Achievement                      |
-| -- | -------------------------------- |
-| 🥇 | Semi Finalist @Google Big Code'26                 |
-| 🚀 | Open Source Contributor          |
-| 💻 | 250+ DSA Problems Solved         |
-| 📚 | B.Tech + MBA @ ABV-IIITM Gwalior |
-| 🎖 | Active GitHub Contributor        |
+| 🎯 | Achievement                                                |
+| -- | ---------------------------------------------------------- |
+| 🥇 | National Semifinalist — Google The Big Code Challenge 2026 |
+| 🚀 | Selected Internally for Smart India Hackathon (SIH) 2025   |
+| 💻 | 250+ Problems Solved on LeetCode                           |
+| 🎓 | B.Tech (IT) Student @ ABV-IIITM Gwalior                    |
+
+
+
+
+---
+
+# 🌱 Current Focus
+
+* 🚀 Building scalable Full Stack Web Applications
+* 🤖 Exploring Artificial Intelligence & Machine Learning
+* 📚 Strengthening DSA, DBMS, OS & Computer Networks
+* 🌍 Contributing to Open Source Projects
+* 🏆 Preparing for Hackathons and Competitive Programming
+
+---
+
+# 💡 Interests
+
+* 🌐 Web Development
+* 🤖 Artificial Intelligence
+* 🚀 Startup & Product Development
+* 🛠 Open Source Contribution
+* 👥 Community Building
+* 🏆 Hackathons
+* 📈 Technology for Social Impact
 
 ---
 
@@ -174,27 +138,29 @@ Always building something new.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanishqasharma29&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqasharma29&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqasharma29&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 📊 LeetCode Progress
+# 📊 Coding Profiles
 
 <div align="center">
 
+<a href="https://leetcode.com/tanishqasharma29">
 <img src="https://leetcard.jacoblin.cool/tanishqasharma29?theme=dark&font=Nunito&ext=heatmap"/>
+</a>
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Let's Connect & Build Something Amazing
 
 <div align="center">
 
@@ -202,7 +168,7 @@ Always building something new.
 <img src="https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/tanishqasharma29">
+<a href="https://www.linkedin.com/in/tanishqa-sharma">
 <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -212,4 +178,4 @@ Always building something new.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:bd00ff,50:ff6b6b,100:f39c12"/>
+⭐ Always open to collaboration, hackathons, open-source contributions, internships, and exciting opportunities.
