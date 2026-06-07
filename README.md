@@ -212,7 +212,10 @@ Built during the Deloitte Australia Technology Virtual Experience Program.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqasharma29&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" />
 </p>
-# 📊 Coding Profiles
+
+---
+
+##   📊 Coding Profiles
 
 <div align="center">
 
