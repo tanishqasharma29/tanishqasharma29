@@ -158,11 +158,15 @@ Built during the Deloitte Australia Technology Virtual Experience Program.
 
 # 🏆 Achievements
 
-| 🎯 | Achievement                                                |
-| -- | ---------------------------------------------------------- |
-| 🥇 | National Semifinalist — Google The Big Code Challenge 2026 |
-| 🚀 | Selected Internally for Smart India Hackathon (SIH) 2025   |
-| 💻 | 250+ Problems Solved on LeetCode                           |
+| 🎯 | Achievement                                                  |
+| -- | ------------------------------------------------------------ |
+| 🥇 | National Semifinalist — Google The Big Code Challenge 2026   |
+| 🚀 | Selected Internally for Smart India Hackathon (SIH) 2025     |
+| 💼 | Infosys Springboard Virtual Internship (Sep 2026 ) |
+| 🌍 | Active Contributor to Open Source & Developer Communities    |
+| 💻 | 250+ Problems Solved on LeetCode                             |
+
+
 
 ---
 
