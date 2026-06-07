@@ -58,21 +58,65 @@ const tanishqa = {
 
 <td width="50%">
 
-### 🍱 Gharvedtan — Online Food Delivery Platform
+### 🍱 Gharvedtan — Community Driven Food Platform
 
-Trust-based hyperlocal food delivery ecosystem connecting home cooks, consumers, and delivery partners.
+Trust-based hyperlocal ecosystem connecting home chefs, consumers, and delivery partners.
 
 #### Highlights
 
-* 🏠 Empowered local home chefs and small food businesses
-* 💬 Real-time communication features
-* 🎮 Gamified rewards and engagement system
-* 🚚 Delivery tracking and order management
-* 👥 Community-driven food ecosystem
+* 🏠 Empowering local home chefs and food entrepreneurs
+* 🚚 Smart order management and delivery workflows
+* 🎮 Gamification and community engagement features
+* 📍 Location-aware food discovery system
+* 📈 Designed for scalable regional expansion
 
 **Tech Stack**
 
-`React` `Node.js` `MongoDB` `Firebase`
+`React` `Node.js` `Firebase` `MongoDB`
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI-Powered Review Sentiment Analysis
+
+Machine Learning system that analyzes customer reviews and extracts actionable insights using Natural Language Processing.
+
+#### Highlights
+
+* 🧠 Sentiment Classification (Positive, Neutral, Negative)
+* 📊 Interactive analytics dashboard
+* ☁️ Data preprocessing and feature engineering
+* 📈 Model evaluation and performance tracking
+* 🔍 Insight extraction from large review datasets
+
+**Tech Stack**
+
+`Python` `Scikit-Learn` `Pandas` `NumPy` `NLP`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ♟️ AI Chess Platform
+
+An intelligent chess application combining gameplay with AI-powered move evaluation and analysis.
+
+#### Highlights
+
+* ♟️ Interactive chess gameplay
+* 🤖 AI-powered move recommendations
+* 📊 Position evaluation and game analysis
+* 🎯 Strategy assistance and learning support
+* 🏆 Future ELO and ranking integration
+
+**Tech Stack**
+
+`React` `JavaScript` `Python` `AI`
 
 </td>
 
@@ -97,41 +141,6 @@ Built during the Deloitte Australia Technology Virtual Experience Program.
 </td>
 
 </tr>
-
-<tr>
-
-<td width="50%">
-
-### 💻 Personal Portfolio Website
-
-Modern developer portfolio showcasing projects, achievements, and technical skills.
-
-#### Highlights
-
-* 🎨 Responsive UI/UX Design
-* ⚡ Fast and optimized performance
-* 📱 Mobile-friendly layout
-* 🔗 Professional networking integration
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="50%">
-
-### 🚀 More Coming Soon...
-
-Always learning, building, and experimenting with new technologies.
-
-> "First, solve the problem. Then, write the code."
-
-⭐ Feel free to explore my repositories and connect with me!
-
-</td>
-
-</tr>
 </table>
 
 ---
@@ -143,20 +152,17 @@ Always learning, building, and experimenting with new technologies.
 | 🥇 | National Semifinalist — Google The Big Code Challenge 2026 |
 | 🚀 | Selected Internally for Smart India Hackathon (SIH) 2025   |
 | 💻 | 250+ Problems Solved on LeetCode                           |
-| 🎓 | B.Tech (IT) Student @ ABV-IIITM Gwalior                    |
-
-
-
 
 ---
 
 # 🌱 Current Focus
 
-* 🚀 Building scalable Full Stack Web Applications
-* 🤖 Exploring Artificial Intelligence & Machine Learning
-* 📚 Strengthening DSA, DBMS, OS & Computer Networks
-* 🌍 Contributing to Open Source Projects
-* 🏆 Preparing for Hackathons and Competitive Programming
+* 🚀 Scaling Gharvedtan into a community-driven food-tech ecosystem
+* 🤖 Building Machine Learning and Generative AI applications
+* ♟️ Developing AI-assisted strategy and game intelligence systems
+* 📚 Strengthening DSA, DBMS, OS, Computer Networks & System Design
+* 🌍 Contributing to Open Source and Developer Communities
+* 🏆 Preparing for Hackathons, Internships, and Software Engineering Roles
 
 ---
 
