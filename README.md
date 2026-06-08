@@ -113,7 +113,7 @@ Machine Learning system that analyzes customer reviews and extracts actionable i
 
 <td width="50%">
 
-### ♟️ AI Chess Platform
+### ♟️ Alpha_Chess
 
 An intelligent chess application combining gameplay with AI-powered move evaluation and analysis.
 
