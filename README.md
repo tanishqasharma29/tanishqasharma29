@@ -1,4 +1,7 @@
+
 # 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="220" src="YOUR_IMAGE_LINK">
 
 ```javascript
 const tanishqa = {
