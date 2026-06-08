@@ -83,7 +83,7 @@ Trust-based hyperlocal ecosystem connecting home chefs, consumers, and delivery 
 
 **Tech Stack**
 
-`React` `Node.js` `Firebase` `MongoDB`
+`HTML` `CSS` `JavaScript` `Node.js` `Firebase` 
 
 </td>
 
@@ -126,8 +126,7 @@ An intelligent chess application combining gameplay with AI-powered move evaluat
 * 🏆 Future ELO and ranking integration
 
 **Tech Stack**
-
-`React` `JavaScript` `Python` `AI`
+`Python`  `Pygame`  `HTML`  `TeX`  `AI`
 
 </td>
 
