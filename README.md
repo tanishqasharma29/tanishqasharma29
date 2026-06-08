@@ -1,15 +1,14 @@
 
-# 👨‍💻 About Me
+#  About Me
 
-<img align="right" alt="Coding" width="220" src="YOUR_IMAGE_LINK">
+<img align="right" alt="Coding" width="220" src="https://drive.google.com/uc?export=view&id=1koxH1bteIO5LZQtAi2P9Iev0w6Xnb3Jg">
 
 ```javascript
-const tanishqa = {
+const Tanishqa = {
     location: "Indore, Madhya Pradesh, India",
     education: "B.Tech (IT) @ ABV-IIITM Gwalior",
-    currentlyLearning: ["System Design", "Full Stack Development", "Artificial Intelligence"],
+    currentlyLearning: ["System Design", "Development", "AI"],
     interests: ["Open Source", "Web Development", "Hackathons", "Community Building"],
-    askMeAbout: ["React", "JavaScript", "MongoDB", "DSA", "Frontend Development"],
     funFact: "I enjoy building tech solutions that create real-world impact."
 };
 ```
@@ -180,18 +179,6 @@ Built during the Deloitte Australia Technology Virtual Experience Program.
 * 📚 Strengthening DSA, DBMS, OS, Computer Networks & System Design
 * 🌍 Contributing to Open Source and Developer Communities
 * 🏆 Preparing for Hackathons, Internships, and Software Engineering Roles
-
----
-
-# 💡 Interests
-
-* 🌐 Web Development
-* 🤖 Artificial Intelligence
-* 🚀 Startup & Product Development
-* 🛠 Open Source Contribution
-* 👥 Community Building
-* 🏆 Hackathons
-* 📈 Technology for Social Impact
 
 ---
 
