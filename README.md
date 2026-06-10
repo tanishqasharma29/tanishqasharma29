@@ -91,7 +91,7 @@ Trust-based hyperlocal ecosystem connecting home chefs, consumers, and delivery 
 
 <td width="50%">
 
-### 🤖 AI-Powered Review Sentiment Analysis
+### 🤖 AmazonReviewSentimentAnalysis
 
 Machine Learning system that analyzes customer reviews and extracts actionable insights using Natural Language Processing.
 
