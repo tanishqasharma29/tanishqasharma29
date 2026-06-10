@@ -134,23 +134,26 @@ An intelligent chess application combining gameplay with AI-powered move evaluat
 
 <td width="50%">
 
-### 📊 Deloitte Dashboard Analytics
+### 🎭 Face_Recognition_Attendance_System
 
-Built during the Deloitte Australia Technology Virtual Experience Program.
+AI-powered attendance management system that uses facial recognition to identify users and automatically record attendance in real time.
 
 #### Highlights
 
-* 📈 Interactive Tableau dashboards
-* 📋 Data classification and analytics
-* 🔍 Actionable business insights
-* ⚡ Dashboard architecture planning
-* 📊 Data-driven decision support
+* 🎥 Real-time face detection and recognition
+* 📝 Automated attendance marking
+* 🔥 Firebase Firestore integration
+* 🗄️ SQLite database management
+* 📊 Attendance analytics and reports
+* 📁 Excel export functionality
+* 🔐 Admin login and dashboard
 
 **Tech Stack**
 
-`Tableau` `Excel` `Analytics`
+`Python` `OpenCV` `Face Recognition` `Firebase` `SQLite` `Pandas`
 
 </td>
+
 
 </tr>
 </table>
