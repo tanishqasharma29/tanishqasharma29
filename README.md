@@ -173,11 +173,27 @@ AI-powered attendance management system that uses facial recognition to identify
 
 ---
 
-## 📈 Contribution Activity
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqasharma29&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" />
-</p>
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqasharma29&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/tanishqasharma29/tanishqasharma29/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
 
 ---
 
