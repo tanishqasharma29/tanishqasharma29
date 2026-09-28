@@ -173,17 +173,6 @@ AI-powered attendance management system that uses facial recognition to identify
 
 ---
 
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqasharma29&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -194,9 +183,6 @@ AI-powered attendance management system that uses facial recognition to identify
 </div>
 
 ---
-
----
-
 ## 📊 Coding Profiles
 
 <div align="center">
