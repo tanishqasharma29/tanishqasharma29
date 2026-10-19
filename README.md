@@ -4,9 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Tanishqa%20Sharma&fontSize=55&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%20%7C%20Open%20Source&descAlignY=62&descSize=20" width="100%" alt="Tanishqa Sharma"/>
 </a>
 
-### Software Developer • AI Enthusiast • Open Source Contributor
-
-**B.Tech (IT) Student @ ABV-IIITM Gwalior**  
+**B.Tech, Information Technology · ABV-IIITM Gwalior**  
 Indore, Madhya Pradesh, India
 
 <br/>
@@ -27,36 +25,17 @@ Indore, Madhya Pradesh, India
 </div>
 
 ---
+## About
 
-## 👋 About Me
+I enjoy turning ideas into working, practical software. I like owning a project end to end, from the first concept through to implementation, and I use each one to sharpen my problem-solving and engineering fundamentals.
 
-I am a **B.Tech Information Technology student at ABV-IIITM Gwalior** passionate about building practical software solutions and exploring emerging technologies.
+My work and interests span:
 
-My interests lie at the intersection of **software engineering, artificial intelligence, web development, competitive programming, and open source**. I enjoy taking ideas from concept to implementation and continuously improving my problem-solving and system design skills.
-
-```javascript
-const tanishqa = {
-    location: "Indore, India",
-    education: "B.Tech (IT) @ ABV-IIITM Gwalior",
-
-    interests: [
-        "Software Development",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Open Source",
-        "System Design",
-        "Competitive Programming"
-    ],
-
-    currentlyLearning: [
-        "System Design",
-        "Generative AI",
-        "Backend Development"
-    ],
-
-    goal: "Build impactful and scalable technology"
-};
-```
+- **Software Engineering:** building reliable, well-structured applications
+- **Artificial Intelligence:** machine learning and applied AI
+- **Web Development:** responsive, user-focused web applications
+- **Competitive Programming:** data structures, algorithms and problem solving
+- **Open Source:** contributing to and learning from the community
 
 ---
 
