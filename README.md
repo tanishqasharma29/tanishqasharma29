@@ -41,86 +41,47 @@ My work and interests span:
 - **Open Source:** contributing to and learning from the community
 
 ---
-
 ## 🚀 Featured Project
 
-<div align="center">
+### ♟️ [Alpha Chess](https://github.com/tanishqasharma29/Alpha_Chess)
 
-<a href="https://github.com/tanishqasharma29/Alpha_Chess">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=190&section=header&text=Alpha%20Chess&fontSize=52&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=AI-Powered%20Chess%20Analysis%20%26%20Gameplay&descAlignY=63&descSize=18" width="100%" alt="Alpha Chess"/>
-</a>
+**AI-powered chess engine built from scratch in Python with an interactive Pygame interface, optimized search, and responsive gameplay.**
 
-### ♟️ Alpha Chess
+**Highlights:** NegaMax + Alpha-Beta Pruning · Move Ordering · Chess Move Generation · Evaluation Functions · Castling & En Passant · Checkmate/Stalemate Detection · Multiprocessing
 
-**An AI-powered chess engine built from scratch in Python with an interactive Pygame interface.**
-
-<br/>
-
-<a href="https://github.com/tanishqasharma29/Alpha_Chess">
-<img src="https://img.shields.io/badge/View%20Repository-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-| 🧠 AI Engine | ♟️ Chess Logic | 🎮 Interactive UI | ⚡ Performance |
-|:---:|:---:|:---:|:---:|
-| NegaMax + Alpha-Beta | Checks, Pins, Castling, En Passant & Promotion | Pygame Interface | Multiprocessing |
-| Fixed-depth search | Move generation | Animations & Highlights | Responsive AI |
-
-### Key Features
-
-- NegaMax search with **alpha-beta pruning**
-- Move ordering for improved search efficiency
-- Material and piece-square-table based evaluation
-- Complete chess move generation
-- Checkmate and stalemate detection
-- Castling, en passant and pawn promotion
-- Interactive board with move history and highlighting
-- Undo and reset functionality
-- AI execution through a separate process for responsive gameplay
-
-**Tech Stack**
-
-`Python` `Pygame` `Algorithms` `Multiprocessing` `PyInstaller`
+**Tech Stack:** `Python` `Pygame` `Algorithms` `Multiprocessing` `PyInstaller`
 
 ---
 
 ## 💻 Other Projects
 
-### 🍔 Gharvedtan — Hyperlocal Food Delivery Platform
+### 🍔 [Gharvedtan](https://github.com/tanishqasharma29/Gharvedtan)
 
-A Firebase-backed food delivery platform focused on connecting users with local food providers and enabling a streamlined ordering experience.
+**Hyperlocal food delivery platform connecting users with local food providers through a streamlined ordering experience backed by Firebase.**
 
-**Tech:** `React` `Firebase` `JavaScript` `HTML` `CSS`
-
----
-
-### 🛡️ SecureCI — DevSecOps CI/CD Pipeline
-
-A security-focused CI/CD project designed to integrate automated vulnerability detection and security gates into software delivery workflows.
-
-**Focus:** `DevSecOps` `CI/CD` `Security Automation` `Docker` `Python`
+**Highlights:** Food Discovery · Ordering Workflow · Firebase Integration · Responsive UI · Real-Time Data
+**Tech Stack:** `React` `JavaScript` `Firebase` `HTML` `CSS`
 
 ---
 
-### 🖥️ PyOS — Operating System Simulator
+### 🛡️ [SecureCI](https://github.com/tanishqasharma29/SecureCI)
 
-A modular Python-based operating system simulator demonstrating fundamental operating-system concepts through an interactive shell.
+**DevSecOps CI/CD pipeline integrating automated vulnerability detection and security gates into the software delivery lifecycle.**
 
-**Highlights**
+**Highlights:** Vulnerability Scanning · Security Gates · CI/CD Automation · Dockerized Workflows · Security Automation
 
-- User authentication and role-based access
-- File-system permissions
-- Process and job management
-- Shell history and environment variables
-- Pipes, redirection and command chaining
-- Simulated services and package tracking
-- SQLite and JSON persistence
-- Automated testing with `unittest`
+**Tech Stack:** `Python` `Docker` `GitHub Actions` `CI/CD` `DevSecOps`
 
-**Tech:** `Python` `SQLite` `bcrypt` `JSON` `threading` `pathlib` `shlex`
+---
+
+### 🖥️ [PyOS](https://github.com/tanishqasharma29/PyOS)
+
+**Modular Python-based operating system simulator demonstrating authentication, file management, process handling, permissions, and shell functionality.**
+
+**Highlights:** Role-Based Access · File-System Permissions · Process Management · Shell Commands · Pipes & Redirection · Persistence · Automated Testing
+
+**Tech Stack:** `` `SQLite` `JSON` `bcrypt` `threading` `pathlib` `shlex`
+
 
 ---
 
