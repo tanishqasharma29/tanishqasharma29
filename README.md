@@ -1,8 +1,11 @@
 <div align="center">
 
 <a href="https://github.com/tanishqasharma29">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Tanishqa%20Sharma&fontSize=55&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%20%7C%20Open%20Source&descAlignY=62&descSize=20" width="100%" alt="Tanishqa Sharma"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Tanishqa%20Sharma&fontFamily=Brush%20Script%20MT&fontSize=65&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%20%7C%20Open%20Source&descAlignY=62&descSize=20" width="100%" alt="Tanishqa Sharma"/>
+
 </a>
+
 
 **B.Tech, Information Technology · ABV-IIITM Gwalior**  
 Indore, Madhya Pradesh, India
