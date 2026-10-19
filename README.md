@@ -68,71 +68,36 @@ const Tanishqa = {
 <tr>
 <td width="50%">
 
-### 🍱 Gharvedtan — Community-Driven Food Platform
-
-Trust-based hyperlocal ecosystem connecting home chefs, consumers, and delivery partners.
-
-**Highlights**
-- 🏠 Empowering local home chefs and food entrepreneurs
-- 🚚 Smart order management and delivery workflows
-- 🎮 Gamification and community engagement features
-- 📍 Location-aware food discovery system
-- 📈 Designed for scalable regional expansion
-
-**Tech Stack:** `HTML` `CSS` `JavaScript` `Node.js` `Firebase`
-
-</td>
-<td width="50%">
-
-### 🤖 Amazon Review Sentiment Analysis
-
-Machine learning system that analyzes customer reviews and extracts actionable insights using natural language processing.
-
-**Highlights**
-- 🧠 Sentiment classification (positive, neutral, negative)
-- 📊 Interactive analytics dashboard
-- ☁️ Data preprocessing and feature engineering
-- 📈 Model evaluation and performance tracking
-- 🔍 Insight extraction from large review datasets
-
-**Tech Stack:** `Python` `Scikit-Learn` `Pandas` `NumPy` `NLP`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
 ### ♟️ Alpha_Chess
 
-An intelligent chess application combining gameplay with AI-powered move evaluation and analysis.
+Python-based chess engine with an interactive Pygame interface. Play against an AI that picks moves using NegaMax search with alpha-beta pruning and material-plus-positional evaluation.
 
 **Highlights**
-- ♟️ Interactive chess gameplay
-- 🤖 AI-powered move recommendations
-- 📊 Position evaluation and game analysis
-- 🎯 Strategy assistance and learning support
-- 🏆 Future ELO and ranking integration
+- ♟️ Custom move generation with checks, pins, castling, en passant and pawn promotion
+- 🧠 Fixed-depth 4 AI search with move ordering and alpha-beta pruning
+- 📊 Board evaluation using piece values and piece-square tables
+- 🎨 Interactive GUI with move animations, move history, highlighting, undo and reset
+- ⚡ AI runs in a separate process to keep the interface responsive
+- 🏁 Checkmate and stalemate detection
 
-**Tech Stack:** `Python` `Pygame` `HTML` `TeX` `AI`
+**Tech Stack:** `Python` `Pygame` `Multiprocessing` `PyInstaller`
 
 </td>
 <td width="50%">
 
-### 🎭 Face Recognition Attendance System
+### 🖥️ PyOS
 
-AI-powered attendance management system that uses facial recognition to identify users and automatically record attendance in real time.
+Modular, Python-based operating system simulator with an interactive command-line shell. Demonstrates user accounts, filesystem permissions, process management and task scheduling. Runs as a Python application, not a bootable OS.
 
 **Highlights**
-- 🎥 Real-time face detection and recognition
-- 📝 Automated attendance marking
-- 🔥 Firebase Firestore integration
-- 🗄️ SQLite database management
-- 📊 Attendance analytics and reports
-- 📁 Excel export functionality
-- 🔐 Admin login and dashboard
+- 🔐 User login with admin/user roles and bcrypt-hashed passwords
+- 📁 Per-user workspaces with file operations and Unix-style permission modes
+- 💻 Shell with history, environment variables, pipes, redirection and command chaining
+- ⚙️ Simulated process/job management with PIDs and ownership checks
+- ⏱️ Timer-based delayed commands, simulated service controls and package tracking
+- 💾 Persistent state via SQLite and JSON, with a unittest suite
 
-**Tech Stack:** `Python` `OpenCV` `Face Recognition` `Firebase` `SQLite` `Pandas`
+**Tech Stack:** `Python` `SQLite` `bcrypt` `JSON` `threading` `pathlib` `shlex` `subprocess` `unittest`
 
 </td>
 </tr>
