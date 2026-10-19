@@ -166,6 +166,156 @@ AI-powered attendance management system that uses facial recognition to identify
 ## 📈 GitHub Stats
 
 <div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanishqasharma29&show_icons=true&bg_color=0D1B2A&title_color=4CC9F0&icon_color=4895EF&text_color=CAF0F8&border_color=1E3A8A"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqasharma29&background=0D1B2A&ring=4CC9F0&fire=4895EF&currStreakNum=CAF0F8&sideNums=CAF0F8&currStreakLabel=4CC9F0&sideLabels=4CC9F0&dates=90E0EF&border=1E3A8A"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqasharma29&layout=compact&bg_color=0D1B2A&title_color=4CC9F0&text_color=CAF0F8&border_color=1E3A8A"/>
+</div>
+
+---
+
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/tanishqasharma29/tanishqasharma29/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+## 📊 Coding Profiles
+
+<div align="center">
+<a href="https://leetcode.com/tanishqasharma29">
+<img src="https://leetcard.jacoblin.cool/tanishqasharma29?theme=dark&font=Nunito&ext=heatmap"/>
+</a>
+</div>
+
+---
+
+## 🤝 Let's Connect & Build Something Amazing
+
+<div align="center">
+
+<a href="mailto:img_2024048@iiitm.ac.in">
+<img src="https://img.shields.io/badge/Drop%20a%20Mail-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/tanishqa-sharma">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=tanishqasharma29&label=Profile+Views&color=2563EB&labelColor=0F172A)
+
+</div>
+
+⭐ Always open to collaboration, hackathons, open-source contributions, internships, and exciting opportunities.
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🍱 Gharvedtan — Community-Driven Food Platform
+
+Trust-based hyperlocal ecosystem connecting home chefs, consumers, and delivery partners.
+
+**Highlights**
+- 🏠 Empowering local home chefs and food entrepreneurs
+- 🚚 Smart order management and delivery workflows
+- 🎮 Gamification and community engagement features
+- 📍 Location-aware food discovery system
+- 📈 Designed for scalable regional expansion
+
+**Tech Stack:** `HTML` `CSS` `JavaScript` `Node.js` `Firebase`
+
+</td>
+<td width="50%">
+
+### 🤖 Amazon Review Sentiment Analysis
+
+Machine learning system that analyzes customer reviews and extracts actionable insights using natural language processing.
+
+**Highlights**
+- 🧠 Sentiment classification (positive, neutral, negative)
+- 📊 Interactive analytics dashboard
+- ☁️ Data preprocessing and feature engineering
+- 📈 Model evaluation and performance tracking
+- 🔍 Insight extraction from large review datasets
+
+**Tech Stack:** `Python` `Scikit-Learn` `Pandas` `NumPy` `NLP`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ♟️ Alpha_Chess
+
+An intelligent chess application combining gameplay with AI-powered move evaluation and analysis.
+
+**Highlights**
+- ♟️ Interactive chess gameplay
+- 🤖 AI-powered move recommendations
+- 📊 Position evaluation and game analysis
+- 🎯 Strategy assistance and learning support
+- 🏆 Future ELO and ranking integration
+
+**Tech Stack:** `Python` `Pygame` `HTML` `TeX` `AI`
+
+</td>
+<td width="50%">
+
+### 🎭 Face Recognition Attendance System
+
+AI-powered attendance management system that uses facial recognition to identify users and automatically record attendance in real time.
+
+**Highlights**
+- 🎥 Real-time face detection and recognition
+- 📝 Automated attendance marking
+- 🔥 Firebase Firestore integration
+- 🗄️ SQLite database management
+- 📊 Attendance analytics and reports
+- 📁 Excel export functionality
+- 🔐 Admin login and dashboard
+
+**Tech Stack:** `Python` `OpenCV` `Face Recognition` `Firebase` `SQLite` `Pandas`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements
+
+| 🎯 | Achievement |
+|----|-------------|
+| 🥇 | National Semifinalist — Google The Big Code Challenge 2026 |
+| 🚀 | Selected Internally for Smart India Hackathon (SIH) 2025 |
+| 💼 | Infosys Springboard Virtual Internship (Sep 2026) |
+| 🌍 | Active Contributor to Open Source & Developer Communities |
+| 💻 | 250+ Problems Solved on LeetCode |
+
+---
+
+## 🌱 Current Focus
+
+- 🚀 Scaling Gharvedtan into a community-driven food-tech ecosystem
+- 🤖 Building machine learning and generative AI applications
+- ♟️ Developing AI-assisted strategy and game intelligence systems
+- 📚 Strengthening DSA, DBMS, OS, Computer Networks & System Design
+- 🌍 Contributing to open source and developer communities
+- 🏆 Preparing for hackathons, internships, and software engineering roles
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanishqasharma29&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqasharma29&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqasharma29&layout=compact&theme=tokyonight"/>
