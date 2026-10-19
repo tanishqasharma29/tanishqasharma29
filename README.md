@@ -41,48 +41,75 @@ My work and interests span:
 - **Open Source:** contributing to and learning from the community
 
 ---
-## 🚀 Featured Project
+<table>
+<tr>
+<td width="50%" align="center">
 
-### ♟️ [Alpha Chess](https://github.com/tanishqasharma29/Alpha_Chess)
+### ♟️ Alpha Chess
 
-**AI-powered chess engine built from scratch in Python with an interactive Pygame interface, optimized search, and responsive gameplay.**
+AI-powered chess engine built from scratch in Python with an interactive Pygame interface.
 
-**Highlights:** NegaMax + Alpha-Beta Pruning · Move Ordering · Chess Move Generation · Evaluation Functions · Castling & En Passant · Checkmate/Stalemate Detection · Multiprocessing
+**Highlights:** NegaMax · Alpha-Beta Pruning · Move Generation · Chess Logic
 
-**Tech Stack:** `Python` `Pygame` `Algorithms` `Multiprocessing` `PyInstaller`
+**Tech:** `Python` `Pygame` `Algorithms`
 
----
+<a href="https://github.com/tanishqasharma29/Alpha_Chess">
+View Repository →
+</a>
 
-## 💻 Other Projects
+</td>
 
-### 🍔 [Gharvedtan](https://github.com/tanishqasharma29/Gharvedtan)
+<td width="50%" align="center">
 
-**Hyperlocal food delivery platform connecting users with local food providers through a streamlined ordering experience backed by Firebase.**
+### 🍔 Gharvedtan
 
-**Highlights:** Food Discovery · Ordering Workflow · Firebase Integration · Responsive UI · Real-Time Data
-**Tech Stack:** `React` `JavaScript` `Firebase` `HTML` `CSS`
+Hyperlocal food delivery platform connecting users with local food providers.
 
----
+**Highlights:** Food Ordering · Firebase · Responsive UI · Real-Time Data
 
-### 🛡️ [SecureCI](https://github.com/tanishqasharma29/SecureCI)
+**Tech:** `React` `JavaScript` `Firebase`
 
-**DevSecOps CI/CD pipeline integrating automated vulnerability detection and security gates into the software delivery lifecycle.**
+<a href="https://github.com/tanishqasharma29/Gharvedtan">
+View Repository →
+</a>
 
-**Highlights:** Vulnerability Scanning · Security Gates · CI/CD Automation · Dockerized Workflows · Security Automation
+</td>
+</tr>
 
-**Tech Stack:** `Python` `Docker` `GitHub Actions` `CI/CD` `DevSecOps`
+<tr>
+<td width="50%" align="center">
 
----
+### 🛡️ SecureCI
 
-### 🖥️ [PyOS](https://github.com/tanishqasharma29/PyOS)
+DevSecOps CI/CD pipeline with automated vulnerability detection and security gates.
 
-**Modular Python-based operating system simulator demonstrating authentication, file management, process handling, permissions, and shell functionality.**
+**Highlights:** Security Scanning · CI/CD · Security Gates · Docker
 
-**Highlights:** Role-Based Access · File-System Permissions · Process Management · Shell Commands · Pipes & Redirection · Persistence · Automated Testing
+**Tech:** `Python` `Docker` `GitHub Actions`
 
-**Tech Stack:** `` `SQLite` `JSON` `bcrypt` `threading` `pathlib` `shlex`
+<a href="https://github.com/tanishqasharma29/SecureCI">
+View Repository →
+</a>
 
+</td>
 
+<td width="50%" align="center">
+
+### 🖥️ PyOS
+
+Modular Python-based OS simulator demonstrating core operating-system concepts.
+
+**Highlights:** Authentication · File System · Processes · Shell · Persistence
+
+**Tech:** `Python` `SQLite` `bcrypt` `JSON`
+
+<a href="https://github.com/tanishqasharma29/PyOS">
+View Repository →
+</a>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🏆 Achievements
